@@ -1,0 +1,496 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect description of Antichrist, and his false prophet. Wherein is plainly shewed that Oliver Cromwell was Antichrist, and John Presbiter, or John Covenanter his false prophet. Written in the yeare, MDCLIV. By Abraham Nelson. And now published with an epistle to the Kings most excellent Majestie.</title>
+            <author>Nelson, Abraham.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89894</idno>
+            <idno type="STC">Wing N416</idno>
+            <idno type="STC">Thomason E1044_13</idno>
+            <idno type="STC">Thomason E1055_8</idno>
+            <idno type="STC">ESTC R203043</idno>
+            <idno type="EEBO-CITATION">99863137</idno>
+            <idno type="PROQUEST">99863137</idno>
+            <idno type="VID">168995</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89894)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168995)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 154:E1044[13], 156:E1055[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect description of Antichrist, and his false prophet. Wherein is plainly shewed that Oliver Cromwell was Antichrist, and John Presbiter, or John Covenanter his false prophet. Written in the yeare, MDCLIV. By Abraham Nelson. And now published with an epistle to the Kings most excellent Majestie.</title>
+                  <author>Nelson, Abraham.</author>
+               </titleStmt>
+               <extent>[8], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.F. and are to be sold at Westminster-Hall, Fleetstreet, and the old Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A description of Antichrist.</note>
+                  <note>Annotation on Thomason copy E.1044[13]: "September 16"; on E.1055[8]: Janu: 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Antichrist --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168995:1" rendition="simple:additions"/>
+            <p>A PERFECT DESCRIPTION OF ANTICHRIST, And his falſe Prophet.</p>
+            <p>WHEREIN Is plainly ſhewed that <hi>Oliver Cromwell</hi> was ANTICHRIST, and <hi>John Preſbiter,</hi> or <hi>John Covenanter</hi> his falſe Prophet.</p>
+            <p>Written in the Yeare, MDCLIV.</p>
+            <p>By <hi>ABRAHAM NELSON,</hi>
+            </p>
+            <p>And now Publiſhed with an Epiſtle to the Kings most Excellent Majeſtie.</p>
+            <p>LONDON, Printed by <hi>T. F.</hi> and are to be ſold at <hi>Weſtminſter</hi>-Hall, <hi>Fleetſtreet,</hi> and the old <hi>Exchange,</hi> 1660.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:168995:2"/>
+            <pb facs="tcp:168995:2"/>
+            <head>TO HIS MOST EXCELLENT MAJESTIE, CHARLES the Second, Of <hi>England, Scotland, France,</hi> and <hi>Jreland,</hi> KING; Defender of the Ancient, Catholicke, and Apo<g ref="char:EOLhyphen"/>ſtolicall Faith.</head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">D</seg>Read SOVERAIGNE:</salute>
+            </opener>
+            <p>NOw after your Majeſties most happie Returne to your Kingdome, your poore Subject hath nothing to preſent to Your <hi>MAIESTY</hi> (ſave onely in teſtimony of my loyaltie to your Grace
+<pb facs="tcp:168995:3"/>
+and true affection which I bore to him which was made ſo like his Lord and Maſter) But onely a few Obſer<g ref="char:EOLhyphen"/>vations collected out of holy <hi>Scripture</hi> Prophetically, and by Viſion layd downe therein; (which hath been hid ſince the world began) But now most dreadfully Acted in your dayes; the which Obſervations I drew up in the yeare 1654. and reading it over to two eſpe<g ref="char:EOLhyphen"/>ciall Friends and Royaliſts <note n="*" place="margin">Mr. BRYAN NEL<g ref="char:EOLhyphen"/>SGN, and Mr. WIL: EDVVARDS of Nor<g ref="char:EOLhyphen"/>wich.</note>, By their perſwaſion and mine owne Inclination, I reſolved to put them in Print, and with a Reſolution to ſend your Grace a Copie thereof. But conſidering that in the last Chapter of <hi>Daniel,</hi> the <hi>Angell commands him to goe his way.</hi> Seeing the words are cloſed and Sealed till the time of the end; In Obedience there<g ref="char:EOLhyphen"/>unto I have reſerved it till this preſent; But most gracious Prince, I humbly Beg of Your <hi>MAIESTY</hi> ſo much time as to Read it over, and your Majeſties pardon in that I cannot give (that is Eloquence with wiſdome of words most proper for ſuch a Propheticall ſubject and due to ſuch a Prince; But that which is your Majeſties due (and can give) I preſent to Your Grace, that is my Service together with this unbur<g ref="char:EOLhyphen"/>niſhed Piece; proceeding from a man of little Lear<g ref="char:EOLhyphen"/>ning, yet from a true and faithfull heart; and where<g ref="char:EOLhyphen"/>as
+<pb facs="tcp:168995:3"/>
+I have been loyall and alwayes ayding to him whoſe fame is made glorious without clogging my Conſcience with Proteſtations, Covenants. Judgments, or Oathes of any kind, which brought utter Ruine upon my eſtate, and great affliction upon me, my Wife and Children; Yet I chuſed rather in my allegiance to expoſe my ſelfe to any ſufferings, the ſame I ſhall be to Your Grace till (by Gods ayd) I ſhall finiſh my Courſe.</p>
+            <closer>
+               <signed>Your Majeſties, Loyall and obedient Subject, ABRAHAM NELSON.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:168995:4"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Riendly and Impartiall READER, J doe here preſent to your view, a perfect <hi>Deſcription of Antichrist</hi> and his falſe <hi>Prophet,</hi> collected out of holy Scriptures, which I writ in the yeare, 1654. You ſhall find upon ſerious Conſideration in reading hereof, that the tranſactions that hath paſt ſince the yeare, 1639. till the yeare 1660. to be the time of <hi>Antichrist</hi> his falſe Prophet, their Increaſe and Reigne, and their particuler actions, perfectly to fulfill their whole Deſcription, ſet forth in holy Scriptures; together with their Names, Marke, and Number of his Name, you ſhall alſo find Antichriſt's falſe Prophet, per<g ref="char:EOLhyphen"/>fectly ſet forth, in oppoſition to CHRIST's true Prophet that came before him; You ſhall alſo find the Antichriſt himſelfe, in oppoſition to CHRIST our Lord perfectly pa<g ref="char:EOLhyphen"/>ralleld: But though that the acknowledgement thereof ſeeme to croſſe the generall Opinion of many Grave and learned Divines, which I honour, who have writ heretofore, and to offend ſome others, which have too much adhered to their late actions; My earneſt requeſt is, that they would ſuſpend their Iudgments till they have read it over: And in ſo doing, then parallell that which they have ſeen, known and underſtood (in theſe times) to the Texts of holy Scrip<g ref="char:EOLhyphen"/>ture quoted, which deciphers him out, and then they may be ſatisfied of the truth of what is inſerted: And though in my own perſon, either for Learning or publique Eſteeme,
+<pb facs="tcp:168995:4"/>
+can give no Luſtre thereunto, therefore in this I crave your favourable Conſtruction: Neither did I undertake this ſo great a buſineſſe of concernment, in it ſelfe ſo conſiderable; Which hath troubled both <hi>Church</hi> and <hi>State</hi> to this day, neither for any private Satisfaction to my ſelfe, or particu<g ref="char:EOLhyphen"/>ler Intereſt: But being brought into great affliction and ſadneſſe of heart, not only for my ſelfe, my Wife and Chil<g ref="char:EOLhyphen"/>dren, through our great ſufferings to the loſſe of all: But more a great deale for the horrid <hi>Apoſtacy</hi> from ſo excel<g ref="char:EOLhyphen"/>lent a Government both in Church and State in the dayes of CHARLES the firſt, the great Martyr of <hi>Ieſus:</hi>— So that I could not be delivered from ſuch Meditations as brought theſe Obſervations into my mind: And having made it knowne to two eſpeciall Friends in <hi>Norwitch,</hi> they perſwaded me to put them in Writing, the which I did and hath reſerved it till this preſent; Not that I was doubtfull of the accompliſhment thereof for God's Glory, and our Good at the time ſpecified: But in obedience to the An<g ref="char:EOLhyphen"/>gels command to <hi>Daniell,</hi> to goe his way, ſeeing the words was ſealed up till the time of the End: For I had gone in<g ref="char:EOLhyphen"/>to <hi>Flanders</hi> this laſt Winter in <hi>February,</hi> (but that I wan<g ref="char:EOLhyphen"/>ted Money) and there to have preſented my Service to my Soveraigne with theſe Obſervations, knowing that the time was to be accompliſhed in 1660. But ſo it is now with me, that in writing of this poore <hi>Epistle</hi> to you, I cannot doe it without teares: Conſidering Gods miraculous Goodneſſe to us, ſo wretched Sinners as to accompliſh his Worke in ſuch Mercy and Gentleneſſe, and goodneſſe to all: As that all faults may be buried in oblivion in a little time, and all the loyall Party which was wronged, prevented of bringing a great Sinne upon themſelves in their own Vindication:
+<pb facs="tcp:168995:5"/>
+O this great Mercy of God! Our King reſtored to us, our Lawes executed, Gods worſhip revived to the admiration of all the World, all fulfilled according to his Word; Let us walk worthy of his Mercy in love to one another: This ſhall be the Prayers of your Servant, as one of the Sons of the Church of <hi>England,</hi> praying God that I may be found faithfull before him, and acceptable to you.</p>
+            <closer>
+               <signed>Yours, ABRAHAM NELSON.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:168995:5"/>
+            <head>A DESCRIPTION OF ANTICHRIST.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eading in the holy Scripture of truth the Viſion which the holy Prophet <hi>Daniell</hi> ſaw in the dayes of <hi>Balſha<g ref="char:EOLhyphen"/>zar</hi> King of <hi>Babilon;</hi> I find in the 7. th Chap. the 7. verſe, a deſcription of a moſt dreadfull and terrible Beaſt. Firſt, hee deſcribes him by his Strength, to be exceeding ſtrong. Secondly, by his Teeth, to be of Iron. Thirdly, by his Hornes to be in number Ten, and alſo in the 8. th verſe, he ſpeaks of a little Horne that came up before whom three fell. Fourthly, he deſcribes this Beaſt to have Nailes of Braſſe in the 9. verſe.</p>
+            <p>This monſtrous Beaſt being deſcribed by his Shape, he alſo tells us what he ſhall doe: But of that hereafter.</p>
+            <p>Alſo reading in the 13. Chapter of St. <hi>Johns</hi> Revelation, I find the ſame Beaſt deſcribed, and looke what Markes of the beaſt <hi>Daniell</hi> hath omitted St. <hi>John</hi> doth deſcribe them more fully.</p>
+            <p>He ſaith, that he came out of the Sea, he ſaith he hath 7. Heads and 10. Hornes, and upon his heads the Names of <hi>Blaſphemy.</hi> This ugly Monſter he deſcribes in the 2. Verſe to be like a <hi>Leopard,</hi> his Feet as the feet of a <hi>Beare,</hi> and his Mouth as the mouth of a <hi>Lyon;</hi> his Power and his great Authority was given to him by the <hi>Dragon.</hi>
+            </p>
+            <p>And the Dragon is deſcribed before in the 12. Chap. and 3. verſe, to be Red and to have ſeven Heads and ten Hornes, and Crownes upon their heads. And J find in the 11. verſe of the 13. chap. another Beaſt deſcribed, To come out of the Earth having hornes like a Lambe, but a terrible ſpeech like a Dragon.</p>
+            <p>Theſe two Beaſts deſcribed by St. <hi>Joqn,</hi> doth exerciſe their Power to advance each other, <hi>verſ.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. he ſaith, He exerciſed all the power of the firſt Beaſt, and cauſed all that was on the earth to worſhip the firſt beaſt.</p>
+            <pb n="2" facs="tcp:168995:6"/>
+            <p>Theſe two beaſts be ſo joyned together in the exerciſe of their Po<g ref="char:EOLhyphen"/>wer; and having their power from the <hi>Dragon,</hi> that they are ſome<g ref="char:EOLhyphen"/>times ſaid to be one.</p>
+            <p>But <hi>Daniell</hi> ſets forth this Second beaſt unto us, in the ſimilitude of a horne that hath a Mouth and Eyes, chap. 7. verſe 8.</p>
+            <p>Now before theſe terrible beaſts appeare in the Earth and exerciſe their power; I find in the 12. chap. and 1. verſe, <hi>A wonder ſeene in Heaven,</hi> a moſt glorious Woman, cloathed with the Sunne and the Moone under her feet, and Crowned with 12 Starres.</p>
+            <p>Shee is alſo deſcribed to be with Child and in paine to be delivered.</p>
+            <p>But being in danger to be devoured by the Dragon and his Inſtru<g ref="char:EOLhyphen"/>ments, theſe ugly beaſts, God Almighty provides a place for her and takes her Child unto himſelfe, verſ. 5. and 6.</p>
+            <p>Now by this moſt glorious Woman and her Son, is moſt certainly ſet forth unto us the Eſtate of the Church of Chr<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt, and the Sonnes of the Church: When theſe monſtrou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Beaſts ſhall appeare, for ſome of the Sonnes of the Church ſhall lay downe their Lives for the Truth, and ſo is taken unto God.</p>
+            <p>Alſo in the 11. th <hi>Chap</hi> from <hi>verſe</hi> the 1 till <hi>verſe</hi> the 7. th is moſt certainly ſet forth unto us the pure Preaching of God's Word for the Worſhip and Service of GOD, that ſhall be in the Church of Chriſt in that place, when and where <hi>theſe</hi> Monſters ſhall appeare.</p>
+            <p>
+               <hi>John</hi> is there commanded to meaſure the Temple of God, and the Altar and them that worſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p therein: But is prohibited to meaſure the Court and holy City, ſeeing it was to be troden under foot by the wicked and prophane, 42. Moneths (that is 1260. dayes xxx. dayes to the Moneth) the ſame time the vertuous and glorious Woman lyeth hid in the place God provided for Her, the 12. th <hi>Chap.</hi> and 6. <hi>verſe.</hi>
+            </p>
+            <p>But for his two Witneſſes they ſhould propheſie in Sackcloth 1260. dayes, theſe are the two Olive-trees and two Candleſtick, ſtanding be<g ref="char:EOLhyphen"/>fore the God of the whole Earth: Spoken of by <hi>Zachary</hi> the Prophet, the 4. th <hi>Chap.</hi> and 3. <hi>verſe,</hi> and the 11. th and 14. <hi>verſes.</hi>
+            </p>
+            <p>By theſe two Olive-trees two Candleſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cks and two Witneſſes is ſet forth unto us the K<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngly and Prieſtly Officers: As alſo the bookes of the Prophets and Apoſtles, <hi>the Old Teſtament</hi> and <hi>the New,</hi> all which ſhall be in Power and had in Eſtimation, and the Word faithfully taught unto us by his Apoſtolicall Miniſters: When and where theſe monſtrous Beaſts appeares.</p>
+            <pb n="3" facs="tcp:168995:6"/>
+            <p>And it is moſt certaine, that theſe Monſtrous Beaſts ſhall be Ene<g ref="char:EOLhyphen"/>mies to God his Worſhip and thoſe that feare his Name,</p>
+            <p>That is manifeſt in the 7. th of <hi>Daniell</hi> the 25. verſe, for it is ſaid there, he ſhall ſpeake great words againſt the Moſt High.</p>
+            <p>And in the 13. th Chap. of <hi>Revelations</hi> the 6. verſe, and he opened his Mouth with blaſphemy, to blaſpheme his Name, his Tabernacle and them that dwell in Heaven.</p>
+            <p>Now for the cruelty of this Beaſt, how this Beaſt ſhall proſper, and what he ſhall doe and how long he ſhall continue, that is neceſſary to be ſhown: But of that hereafter.</p>
+            <p>But firſt of all, what is meant by the Sea and great Waters from whence this Beaſt ſhall come, it is expreſſed Chap. 17. th and 15. verſe, to be People and Multitudes, Tongues and Nations, it is alſo neceſſa<g ref="char:EOLhyphen"/>ry to know where they ſhall appeare.</p>
+            <p>He ſhall certainly appeare in that place where the moſt pure preach<g ref="char:EOLhyphen"/>ing of the Goſpell of GOD and our Lord and Saviour Jeſus Chriſt is taught and upholden: Both in Doctrine and Diſcipline, by Chriſt's Re<g ref="char:EOLhyphen"/>gall and Sacerdotall Officers: And he ſhall oppoſe himſelfe againſt all lawfull Authority.</p>
+            <p>This great Beaſt is certainly the Man of Sinne, the Antichriſt, the Son of Perdition ſpoken of by the holy Prophets and Apoſtles.</p>
+            <p>But now for the Deſcription of this Man of Sinne, the Son of Per<g ref="char:EOLhyphen"/>dition ſet forth by the ſimilitude of theſe Monſters, it is neceſſary to ſhew; Therefore firſt of the body o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this Beaſt, It is Multitudes of men in the World in Seven ſeverall Nations, who will either volun<g ref="char:EOLhyphen"/>tarily or by force comply to the Man of Sinne.</p>
+            <p>Secondly, the Heads of this Beaſt, is Princes and great men in thoſe Nations, and ſometimes it is taken for the head City where they meet to conſult: Called the <hi>Royall City.</hi>
+            </p>
+            <p>Thirdly, by the Hornes of this Beaſt is meant the Kings of thoſe Na<g ref="char:EOLhyphen"/>tions, whereof one of them hath foure Dominions belonging to him: So theſe foure and the other ſix maketh ſeven Heads and ten Hornes: <hi>Rev<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lations</hi> the 13. th and 1. verſe, <hi>Daniell</hi> 7. th and 7. verſe.</p>
+            <p>Then <hi>Daniell</hi> expreſſeth, that he ſaw another little Horne come up after them: Before whom three fell; And that Horne is ſaid to be the 8. th Dominion, and yet one of the Seven, <hi>Rev.</hi> 17 ch. and 11<g ref="char:punc">▪</g> verſe, that l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ttle Horne is the Antichriſtian Horne, which by <hi>Daniel</hi> is ſaid to have Eyes and a Mouth that ſhall ſpeake high things.</p>
+            <pb n="4" facs="tcp:168995:7"/>
+            <p>Now it is to be underſtood, that when this Man of Sinne ſhall ap<g ref="char:EOLhyphen"/>peare all the ſeven Nations ſhall be Chriſtians: But he ſhall ariſe and make his Seat in one only Nation, and in that Nation where the moſt pure Preachings of the Goſpel are both in Doctrine and Diſcipline, and in that Nation whoſe Head hath foure Hornes, that is foure Domini<g ref="char:EOLhyphen"/>ons belonging to it, though he doe but exerciſe the power of Three.</p>
+            <p>But upon the appearance of the little Horne, the three Dominions which the former King had ſhall fall to him, and the former King ſhall be pluckt up, <hi>Dan.</hi> the 7. th and 8. verſe, but of that hereafter.</p>
+            <p>Now that Antichriſt is ſet out unto us by this little Horne in <hi>Dani<g ref="char:EOLhyphen"/>ell,</hi> and the Beaſt out of the Earth in <hi>John:</hi> It ſhall be apparant by what he ſhall doe anſwerable to that which is written of him.</p>
+            <p>Alſo by the Deſcription of his Name and Marke, and the firſt Beaſt by his Name and the number of his Name.</p>
+            <p>Therefore to make it plaine, I will ſhew it more clearly by ſetting forth and ſhewing the Dignities of Chriſt.</p>
+            <p>Firſt, as the Son of <hi>GOD.</hi> Secondly, as a <hi>King.</hi> Thirdly, as a <hi>Prieſt,</hi> and as the Son of God had before his appearance a Fore-runner, a great Prophet, a Meſſenger to goe before his face to prepare his Way.</p>
+            <p>So the Son of Perdition ſhall have a great Prophet, a Fore-runner, a Meſſenger to goe before him to prepare his Way; And as the Son of God was ſent from Heaven by his Father, endowed with Kingly and Prieſtly abilities to redeeme his people; So the Son of Perdition ſhall come out of the Earth from his Father the old Serpent the Devill; And ſhall uſurpe to himſelfe both the Kingly and Prieſtly Dominions, to ſeduce a people from the true Worſhip of God, to worſhip himſelf and the <hi>Dragon.</hi>
+            </p>
+            <p>But firſt of all, I will compare together Chriſt's true Prophet, Fore<g ref="char:EOLhyphen"/>runner, and Meſſenger that came before him.</p>
+            <p>And Antichriſt's falſe Prophet that ſhall come before him.</p>
+            <p>Chriſt's Fore-runner his Name is <hi>John</hi> ſo named of the Angell, <hi>Luke</hi> the 1. and 13. verſe: Hee is a Prieſt alſo: And in verſe 72, and 73. hee is ſaid to come to performe the Covenant, and the Oath which he ſware to <hi>Abraham</hi> and his Seed.</p>
+            <p>Antichriſt's Prophet and Fore-runner ſhall be called <hi>John Preſbiter,</hi> but more properly his Name is <hi>John Covenanter.</hi>
+            </p>
+            <p>For he ſhall come with a Covenant and an Oath in oppoſition to the Covenant and Oath of God, and ſhall pretend to doe the Offices
+<pb n="5" facs="tcp:168995:7"/>
+that Chriſt's Fore-runner came to doe, in Preaching <hi>Repentance</hi> and pretending to a <hi>Reformation.</hi>
+            </p>
+            <p>The other Offices that Chriſt's Harbinger did performe was to make the Way ſtraight, and to turne the hearts of the Fathers to their Chil<g ref="char:EOLhyphen"/>dren, and the Diſobedient to the wiſdome of the Iuſt: And to make a people to be prepared for Chriſt the Lord, <hi>Luke</hi> the 1. and the 17.</p>
+            <p>But the Offices that Antichriſt's Harbinger ſhall performe for all his pretences ſhall be to make the Way crooked, and to turne the hearts of the Children from their Fathers, and the obedient from the wiſdome of the Iuſt: And to make ready a Rebellious People prepared for Antichriſt.</p>
+            <p>And as the people which <hi>John Baptist</hi> did prepare, did accept of the Covenant and Oath of God, and was diſtinguiſhed from others and became Chriſtians.</p>
+            <p>So ſhall the people which <hi>Preſbiter Iohn</hi> ſhall prepare, accept of a Covenant and Oath which was from his Father the Devill: And thereby be diſtinguiſhed from others and be called <hi>Covenanters.</hi>
+            </p>
+            <p>This is the firſt Beaſt which <hi>Iohn</hi> ſaw like a <hi>Leopard,</hi> which can<g ref="char:EOLhyphen"/>not change his Spots.</p>
+            <p>And firſt for his Name it ſhall be <hi>Iohn Covenanter,</hi> and the number of the words in his Preamble and Covenant (that makes his Name) is the number of his Name, let him that hath Wiſdome count them, for they are 666. mentioned, <hi>Revelations</hi> the 13. Chap. and the laſt verſe.</p>
+            <p>☞ <hi>As it is to be ſeene in the originall Copie of the Kirk.</hi>
+            </p>
+            <p>This Covenant ſhall combine all his Creatures in one, and unite them for Lives and Eſtates to ſerve him: The Enemy of God and all good Men.</p>
+            <p>And as <hi>John Baptist</hi> came with a mighty Power, ſo that all did muſe whether he were the Chriſt.</p>
+            <p>So ſhall <hi>John Covenanter</hi> come with a mighty Power, trampling all under foot, <hi>Daniell</hi> the 7. th and the 7. And with ſuch a falſe Zeal; So that all ſhall muſe thinking him to be the Truth of Chriſt, though he ſhall be the Fore-runner of Antichriſt: I have now deſcribed the Name of Chriſt's Meſſenger and his Power and Office, ſo that he is the greateſt Prophet of God that ever was amongſt the Sons of Men.</p>
+            <p>And the Name of Antichriſt's Meſſenger, the number of his Name, his Power and Office, ſo that he ſhall be the greateſt Prophet of all the falſe Prophets that ever ſhall be amongſt the Sons of Men: For hee
+<pb n="6" facs="tcp:168995:8"/>
+and the Antichriſtian Beaſt with the <hi>Dragon</hi> ſhall worke wonders; <hi>They ſhall throw downe the Starres, Revelations</hi> the 12. th and the 4. <hi>verſe,</hi> and <hi>they ſhall cauſe Fire to come downe from Heav<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n in the ſight and preſence of men,</hi> the 13. th and the 13. <hi>verſe<g ref="char:punc">▪</g>
+               </hi> This is nothing elſe but the pulling downe of the King, the learned Clergy, B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhops and Church Officers, which is compared to Starres &amp; Fires in Scripture.</p>
+            <p>And it muſt be a mighty wonder to ſee this done; Now it is ne<g ref="char:EOLhyphen"/>ceſſary to ſhew unto you the Offi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of CHRIST the Lord of Life, and his Power (his Way being prepared) his Name and his Marke: Alſo the Offices of Antichriſt the Man of Death and Deſtruction, his Name and Marke, his way being prepared before him.</p>
+            <p>Firſt for the Offices of Chriſt, he is a King, <hi>Mathew</hi> the 27. th and the 11. and <hi>Hebrewes</hi> the 1. and the 8. <hi>But unto the Son he</hi> ſaith, <hi>thy Throne O God is for ever and ever, the Scepter of thy Kingdome is a Scepter of Righteouſneſſe.</hi>
+            </p>
+            <p>He is a Prieſt alſo being the Prieſt of the moſt high GOD, and of the Order of <hi>Melchiſadec, Hebrewes</hi> the 5. th and 6. <hi>verſe,</hi> and his Name is <hi>Jeſus</hi> ſo named of the Angell: And his Marke or Enſigne is the Croſſe which we take in Baptiſme, and which Chriſt ſaith, <hi>all that will follow him muſt take up.</hi>
+            </p>
+            <p>Now the Power of Chriſt in the exerciſe of Kingly Office is proved, <hi>Pſalme</hi> 2. and 9. <hi>verſe, Revelations</hi> the 19. th and 15. <hi>verſe Out of his Mouth goeth a ſharp Sword, and with it he ſhall ſmite the Nations,</hi> and <hi>he ſhall rule them with a Rod of Iron:</hi> And <hi>ſhall tread the Win<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>preſſe of the fierceneſſe of the Wrath of God.</hi>
+            </p>
+            <p>And of his Prieſtly Office, <hi>Hebrewes</hi> the 4 th and 14. <hi>Seeing ther<g ref="char:EOLhyphen"/>fore we have a great high Prieſt, that is paſt into Heaven</hi> Jeſus <hi>the Son of God: Let us hold our Profeſſion.</hi>
+            </p>
+            <p>Now I ſhall ſhew unto you the Offices of Antichriſt, his power, his Name &amp; Mark, in oppoſition to Chriſt his power his Name &amp; Mark.</p>
+            <p>Firſt, he ſhall take unto him Dominion: That is Kingly power, <hi>Daniell</hi> the 7. th and 25. <hi>verſe,</hi> the middle of the <hi>verſe. And he ſhall thinke to change Times and Lawes</hi> both Civill and Eccleſiaſticall, <hi>and they ſhall be given into his hand.</hi>
+            </p>
+            <p>He ſhall alſo take upon him Dominion over (Epiſcopall Authori<g ref="char:EOLhyphen"/>ty which is Apoſtolicall, that is) Prieſtly power, to command Wor<g ref="char:EOLhyphen"/>ſhip: As in the 13. th <hi>Chap.</hi> and 4. <hi>verſe,</hi> it is ſaid: They <hi>worſhipped the Dragon which gave Power to the Beaſt,</hi> alſo <hi>Paul</hi> ſaith, <hi>He ſhall
+<pb n="7" facs="tcp:168995:8"/>
+ſet himſelfe in God's Temple as God,</hi> and againſt him to depoſe and ſet up whom he will without Law or Example: Save only exemplifi<g ref="char:EOLhyphen"/>ed by his Type, that is <hi>Antiochus</hi> the Type of Antichriſt under the Goſpell.</p>
+            <p>And for his Name it ſhall be equall with Chriſt's Name, that is <hi>Jeſus</hi> a Saviour, a Protector to his people: And for his Marke it ſhall be a Croſſe wherewith all his ſhall be marked and commiſſionated to doe his workes in the World, and that none ſhall be permitted to buy or ſell, or to doe any thing of Concernment without his Name, his Marke or number of his Name afore ſpoken of, <hi>Revelations</hi> the 13. th <hi>Chapter,</hi> and the 17. th <hi>verſe.</hi>
+            </p>
+            <p>Now ye ſee what a Combination Antichriſt (when he commeth) ſhall make: All that are for him muſt have his Name, others muſt have his M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rke; And ſome muſt have the Name and number of his Name, and ſome ſhall have all.</p>
+            <p>But before this Tragedy ſhall be acted, we ſhall find that our Lord and Saviour <hi>Jeſus Christ</hi> ſhall ſeal his obedient ones, leaſt they ſhould be deceived by the policy of the falſe Prophet, and the proſperous ſuc<g ref="char:EOLhyphen"/>ceſſe of the Man of Sinne; For it is ſaid, <hi>If it were poſſible they would deceive the very Elect.</hi>
+            </p>
+            <p>In the 7. th <hi>Chap.</hi> and the 2. <hi>verſe<g ref="char:punc">▪</g>
+               </hi> I <hi>ſaw an Angell aſcend out of the Eaſt having the Seal of the living God,</hi> and in the 4. <hi>verſe</hi> it is ſaid: There was ſealed 144000.</p>
+            <p>I have made it appeare what Power the Man of Sin ſhall have, and Offices he ſhall uſurpe.</p>
+            <p>Now I ſhall further ſhew you the Exerciſe of his power, what he ſhall doe: I have ſhowne how he ſhall trample all under foot, and change Lawes both Civill and Eccleſiaſticall, now I will ſhew you how he ſhall make Wars<g ref="char:punc">▪</g> and againſt whom.</p>
+            <p>In the 7. th of <hi>Daniell</hi> and the 21. it is ſaid: <hi>I beheld and ſaw the ſame Horne make War with the Saints and prevaile againſt them.</hi>
+            </p>
+            <p>And in the 13. th of <hi>Revelations</hi> and the 7. <hi>verſe and it was given unto him to make War with the Saints and overcome Them:</hi> In over<g ref="char:EOLhyphen"/>comming the Saints he ſhall firſt take away the chiefe Officers of the Church, that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the King, and Biſhops and their lawfull Officers, and prohibit the true D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ctrine and Diſcipline Apoſtolicall to be uſed: and when he hath taken away the Church Officers, to ſuppreſſe the Profeſ<g ref="char:EOLhyphen"/>ſors is eaſie.</p>
+            <pb n="8" facs="tcp:168995:9"/>
+            <p>For the King that then ſhall be ſhall fall before him, which exerci<g ref="char:EOLhyphen"/>ſeth the Power of the three Hornes, <hi>Daniel</hi> the 7. th and 8. <hi>verſe,</hi> in the middle of the <hi>verſe, I conſidered the little Horne</hi> ſaith hee, <hi>before three of the firſt were plucked up;</hi> and in the 24. th <hi>verſe,</hi> he ſaith, <hi>He ſhall ſubdue three Kings or Kingdoms and there he ſhall plant himſelfe.</hi>
+            </p>
+            <p>Now for the continuance of the time he ſhall have to ſtand in his Po<g ref="char:EOLhyphen"/>wer; It is requiſite I ſhould ſpeake of it: That after he appeares in his ſplendor we may hope for his end, leſt we ſhould faint in the length of our ſufferings.</p>
+            <p>In the Exerciſe of this wofull Tragedy againſt the Saints of GOD, we find he ſhall ſpeake great Words againſt the Moſt High, and wea<g ref="char:EOLhyphen"/>ry out his Saints, the 7. th of <hi>Daniell</hi> and 25. And in the latter part of the <hi>verſe</hi> it is ſaid, <hi>he ſhall continue a Time, Times, and the deviding of time: John</hi> ſaith the 13. th <hi>Chap.</hi> and 5. <hi>verſe. He hath Power to continue 42. Moneths,</hi> which is three yeares and an halfe, that is to meaſure and account his Time by.</p>
+            <p>And I find that upon the increaſe of his Power, he ſhall be ſo pre<g ref="char:EOLhyphen"/>valent in (oppoſition of God's word) perſecuting the Regall and Apo<g ref="char:EOLhyphen"/>ſtolicall Officers of CHRIST, as that the Bookes of the Prophets and Apoſtles, together with the two Candleſticks of the Church of Chriſt; his two Officers is ſaid to be ſlaine and lye dead in the ſtreets (and in the ſight of all men) for three dayes and an halfe, <hi>Revelations</hi> the 11. and the 7. th: And by reaſon of the <hi>Toleration</hi> that the Man of Sinne ſhall grant upon the ſuppreſſing of the true Worſhip and Worſhippers of GOD, and taking away the publique <hi>Liturgie</hi> of the Church, there ſhall be a very great joy: So that they ſhall give and ſend Guifts one unto another and make merry, <hi>Chap.</hi> 11. th and 10. <hi>verſe.</hi>
+            </p>
+            <p>Becauſe thereby they were hindred of their Liberty, that they could not exerciſe their ſeverall Idolatrous, Fantaſticall, and Hereticall Opinions.</p>
+            <p>And during the time that theſe two Prophets, and two Witneſſes lies ſlaine and dead in the ſtreets in open ſhame and contempt: The true Profeſſors of the Goſpell ſhall be clothed in Sack-cloth 1260. <hi>Chap.</hi> 11. th and 3. <hi>verſe.</hi>
+            </p>
+            <p>According to the number of the Dayes <hi>the vertuous Woman</hi> (that is <hi>the Church</hi>) is hid by God in the place which he hath provided for Her, the 12. th <hi>Chap.</hi> and 6. <hi>verſe.</hi>
+            </p>
+            <pb n="9" facs="tcp:168995:9"/>
+            <p>And then after the time <hi>limited</hi> be over ſhall their Sackcloth be put off, and the Woman come out of her place, to help forward the Iudge<g ref="char:EOLhyphen"/>ment of the Man of Sin.</p>
+            <p>But during the Time of the hiding of this Chaſt Woman and the <hi>Perſecution</hi> of her Children; There appeareth another Woman, <hi>Chap.</hi> the 17. th and the 3. <hi>verſe: A Great Whore, a</hi> Jezabel <hi>wonderfully D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cked: By whoſe Glory Thouſands are bewitched.</hi>
+            </p>
+            <p>By this Whore is ſet forth unto us Antichriſt's ſuperſtitious Whore, and the City where he ſhall keepe, and the Idolatrous Brood he ſhall beget.</p>
+            <p>Now all men know or will confeſſe, that Men are naturally ſub<g ref="char:EOLhyphen"/>ject to Idolatry, and therefore is fitly compared to a Whore, and An<g ref="char:EOLhyphen"/>tichriſt when he commeth will tolerate men thereunto; Now if an arrant Whore be tolerated by Law, what Wickedneſſe is it that ſhe will not commit with a Braſen face? And alſo abuſe the moſt Godly Vertuous and Chaſt Woman that can be found.</p>
+            <p>Now I will but ſpeake a very little of his Power more, leaſt I di<g ref="char:EOLhyphen"/>greſſe too farre.</p>
+            <p>Jn the 13. th <hi>Chap.</hi> and 4. <hi>verſe</hi> (it is ſaid) <hi>And they worſhipped the Dragon which gave Power to the Beaſt,</hi> and they worſhipped the Beaſt and ſaid, Who is like to the Beaſt, <hi>Who is able to make warre with him.</hi>
+            </p>
+            <p>Alſo hee ſhall extend his power a great deale farther then his owne proper Dominion which he hath uſurped; For his Name and his Marke ſhall goe through the earth, <hi>Revelation</hi> the 13. th and the 8. th verſe. For it is ſaid, <hi>All that dwell on the Earth ſhall worſhip him;</hi> For he ſhall extend all power into the Channels of the Sea, and great waters. So that Nations ſhall maintaine their Traffique by him and ſhall doe it by his Name and Marke, wherewith his Patents ſhall be ſealed and Articles of Peace or Warre marked and ſealed.</p>
+            <p>He ſhall be like that Leviathan (ſpoken of by <hi>Job</hi>) that walloweth in the great deepe.</p>
+            <p>Now I thinke it neceſſary to the making of this great Tragedy plaine, to ſpeake of the matter of Worſhip a little as it commeth in order.</p>
+            <p>Kings and Princes, and chiefe Prieſts, in holy Scriptures are called Gods, being ſanctified by divine Power; and alſo the ſame Scrip<g ref="char:EOLhyphen"/>ture doth command worſhip and honour to be given them.</p>
+            <pb n="10" facs="tcp:168995:10"/>
+            <p>Now we may read in the 13. chap. <hi>Revelation</hi> the 3. verſe, <hi>That one of the beaſts Heads was wounded to death, and his wound was healed.</hi>
+            </p>
+            <p>You may remember that I ſaid before, That the heads of the beaſts were Nobles and great Men, or ſuch as is of the Kings Councell; and the hornes are Kings; now when the Hornes by force falls off (afore<g ref="char:EOLhyphen"/>mentioned) the Head on which it doth ſtand will receive a wound.</p>
+            <p>But when the little Horne growes great, hee ſhall cauſe the beaſts head to be healed, by electing another Nobility of his owne Tribe; which is ſet forth unto us by the word <hi>Image:</hi> And well may be called an Image, in compariſon of the other that was before it; But however it muſt be Worſhipped; For in the 13. chap. the 15. verſe. He had power to give life <hi>to the Image of the Beaſt,</hi> that the Image of the beaſt, ſhould both ſpeake and cauſe, that ſo many as would not Worſhip <hi>the Image of the beaſt,</hi> ſhould be killed.</p>
+            <p>And I will ſhew you more things that this Man of ſinne ſhall doe expreſſed by <hi>Paul</hi> his 2. Epiſtle to the <hi>Theſſalonians,</hi> 2. chap. 4. verſe, it is ſaid there, <hi>That he ſhall oppoſe himſelfe above all that is called Gods and are worſhipped.</hi>
+            </p>
+            <p>Now his fore-runner ſhall be a man of Worſhip (as <hi>John Baptist</hi> was) when he commeth.</p>
+            <p>But the Man of ſinne, ſhall be a meane Man and no man of Wor<g ref="char:EOLhyphen"/>ſhip; neither ſhall any be proper for him.</p>
+            <p>Therefore it is truly ſaid, When hee commeth and playeth his Pa<g ref="char:EOLhyphen"/>gents above Kings and great Men on the earth, that he exalteth him<g ref="char:EOLhyphen"/>ſelfe above all that is called Gods unto whom Worſhip belongeth.</p>
+            <p>And in the firſt of <hi>Paul</hi> to <hi>Timothy,</hi> the 4. th and the 3. verſe, hee ſaith, <hi>He ſhall forbid to Marry</hi> (that is) He ſhall alter the ordinary practiſe of the <hi>Church of GOD in marriage,</hi> which was ſolemnly performed by the Miniſters of CHRIST, according to Gods word; commanding it to be done by thoſe that are no Prieſts: which are Commiſſionated by his Marke, and alſo upon a penalty of Diſinhe<g ref="char:EOLhyphen"/>ritance, as Baſtardizing their poſterity.</p>
+            <p>Hee ſhall alſo command <hi>Faſting-dayes,</hi> and prohibite <hi>Feſtivall<g ref="char:EOLhyphen"/>times,</hi> which the Church had celibrated; as the time of CHRIST'S <hi>Nativity,</hi> his <hi>Reſurrection</hi> and <hi>Aſcention</hi> (and the like) farre worſe then any Pagan.</p>
+            <p>But it is more proper to Antichriſt's fore-runner which ſhall come like <hi>John Baptist;</hi> Neither eating nor drinking, but with a great deale
+<pb n="11" facs="tcp:168995:10"/>
+of temporance and Purity to deceive, though it be proper to him what the People ſaid of <hi>Iohn, That he hath a Devill.</hi>
+            </p>
+            <p>Now I will ſpeake of Antichriſt and his falſe Prophet joyntly, be<g ref="char:EOLhyphen"/>ing united to advance each other; therefore firſt of their beginning and ſo of their growth.</p>
+            <p>And that I may make it plaine, I will compare the Lord of life and this Meſſenger of Death together.</p>
+            <p>In the 2. of <hi>Luke,</hi> the 46. th 47. and the 48. <hi>verſes. Chriſt was found of his Parents diſputing amongſt the Doctors in Gods Temple</hi> (it ſeemes to me to be the <hi>Puritanicall</hi> Phariſees with which hee diſ<g ref="char:EOLhyphen"/>puted, and) which hee calleth ſo often (afterwards to his Diſciples) <hi>Hypocrites:</hi> giving them command to take heed to them.</p>
+            <p>This was the time of CHRIST's beginning and increaſe to doe his Fathers buſineſſe, till he was Baptized in <hi>Iordain</hi> of <hi>John.</hi> Then being in the full Exerciſe of his power after his Baptiſme, hee continueth therein till his <hi>Aſcention,</hi> 42. Moneths or thereabouts, in all, one and twenty yeares.</p>
+            <p>And a little before his Suffering <hi>Mathew</hi> the 21. chap. the 12. verſe, <hi>Enters into the Temple, and overthrew the tables of the Money chan<g ref="char:EOLhyphen"/>gers, and thoſe that polluted his Fathers houſe, hee drave out;</hi> ſaying, <hi>that they had made his Fathers houſe a denne of Thieves.</hi>
+            </p>
+            <p>The ſame time ſhall Antichriſt have till he come to the height of his power, that CHRIST had, till he was Baptized; after which time hee ſhall thinke himſelfe lawfully Inſtalled to his <hi>Jeſus ſhip</hi> to him and his for ever.</p>
+            <p>And as Chriſt firſt began his moſt Gracious worke in the Temple, and ſo continued till he whipt the Prophainers out as aforeſaid.</p>
+            <p>So ſhall Antichriſt and his falſe Prophets begin, they worke to doe their Fathers buſineſſe in diſputing againſt the true Doctors, Profeſ<g ref="char:EOLhyphen"/>ſors and worſhippers of God in his Churches and Temples, till they drive out of Chriſt's Churches his faithfull Officers and Profeſſors, and make them Stables, Courts of guard, and conſequently a denne of Thieves.</p>
+            <p>Now it is requiſite (hee being ſo perfectly marked out) that it ſhould be made knowne, what ſhall become of the Man of ſinne, and what ſhall be his judgment.</p>
+            <p>It is ſaid in <hi>Daniel</hi> the 7. th and 11. <hi>I beheld then becauſe of the voyce of the great words which the Horne ſpake,</hi> I beheld even till the
+<pb n="12" facs="tcp:168995:11"/>
+Beaſt was ſlaine and his body deſtroyed and given to the burning Flame; And in the 26. th verſe, <hi>The judgment ſhall ſit, and they ſhall take away his Dominion to conſume it, and deſtroy it to the end:</hi> And in the 19. th of the <hi>Revelation</hi> the 20. th verſe, <hi>John</hi> ſaith; <hi>That the Beaſt was taken and with him the falſe Prophet that wrought Mira<g ref="char:EOLhyphen"/>cles.</hi> with which he deſigned them that had the Marke of the beaſt and worſhipped his <hi>Image;</hi> theſe both were caſt into the Lake of Fire burning with Brimſton.</p>
+            <p>But ſeeing in the ſame Chapter, there is mention made of a <hi>whoriſh Woman,</hi> which I have a little ſpoke of before, J will touch it a little as it lyeth in the way.</p>
+            <p>In the 3<g ref="char:punc">▪</g> verſe, <hi>John was carried into the Wilderneſſe and there hee ſaw the whoriſh Woman riding,</hi> in the ſame Place and upon the ſame Beaſt which perſecuted the moſt Glorious woman the <hi>Church.</hi>
+            </p>
+            <p>
+               <hi>John</hi> ſeeth a Cup of abomination in her hand; and in the 5. verſe, <hi>We ſaw</hi> her Name written in her Forehead, Myſterie <hi>Babilon</hi> the great, the mother of <hi>Harlots</hi> the abomination of the Earth.</p>
+            <p>This Woman was drunke with the blood of the Saints and Mar<g ref="char:EOLhyphen"/>tyrs of JESVS which made <hi>John</hi> wonder.</p>
+            <p>This <hi>Woman</hi> ſhall be the <hi>Royall City</hi> where the Man of Sinne ſhall make his Seat; and in which the Antichriſtian Repreſentative body of the Beaſt, and Head of the beaſt, doth Conſult, and giveth Anti<g ref="char:EOLhyphen"/>chriſt, that is <hi>the Horne his power.</hi>
+            </p>
+            <p>In the laſt verſe of that Chapter, it is ſaid; <hi>The Woman which thou ſaweſt,</hi> is the great City which raigneth over the Kings of the Earth; ſor by their prevalent Power (during their Antichriſtian compliance) both by Sea and Land, they are ſaid to Raigne over the Kings of the earth.</p>
+            <p>And in the 7. verſe of the 17. th chap. The Angell ſaith, <hi>He will tell Iohn the miſtery of the Woman, and the Beaſt that carrieth her.</hi>
+            </p>
+            <p>And in the 8. verſe, hee ſaith, <hi>The Beaſt on which the Woman ſate was and is n c,</hi> and ſhall deſcend into the Bottomleſſe pit and goe in<g ref="char:EOLhyphen"/>to Perdition, and they that dwell on the Earth ſhall wonder, whoſe lives are not written in the Booke of Life from the foundation of the World: <hi>When they behold the Beaſt that was and Is not<g ref="char:punc">▪</g> and yet is.</hi>
+            </p>
+            <p>This Beaſt ſhall be <hi>Preſviter John,</hi> and the firſt great Aſſembly of Republiques that aydes him; (<hi>which was</hi>)—</p>
+            <p>That is, hee ſhall be in great Power when the Man of ſinne ap<g ref="char:EOLhyphen"/>peares
+<pb n="13" facs="tcp:168995:11"/>
+with his Toleration. Hee ſhall loſe his Power and Dominion when the Man of ſinne is apparently come; (and therefore it is ſaid, <hi>He was and Is not.</hi> (And it is ſaid, <hi>hee yet is:</hi>) Seeing he ſhall give himſelfe and his Power to uphold the Man of Sinne, after which he ſhall recover his Power and being, and therefore is ſaid (<hi>he yet Is.</hi>)</p>
+            <p>And then it ſhall be accounted a wonder of all, whoſe Names are <hi>not written</hi> in the Booke of Life from the foundation of the World; when they behold the Beaſt that <hi>Was</hi> and <hi>Is not,</hi> and <hi>yet Is.</hi>
+            </p>
+            <p>In the 10. th verſe, he ſaith; <hi>There are 7. Kings whereof five are fallen, one Is and another is Not yet come, and when hee commeth he ſhall Continue a ſhort ſpace.</hi>
+            </p>
+            <p>That is, five of thoſe Kings ſhall ſubmit themſelves to certaine Con<g ref="char:EOLhyphen"/>ditions, and to the Iuriſdiction of the Man of Sin<g ref="char:punc">▪</g> and City where the Man of ſinne ſitteth, intimated by the word <hi>fallen.</hi>
+            </p>
+            <p>It is ſaid one is, that is himſelfe and his City, as it is ſaid, by the old <hi>Babell</hi> he onely <hi>Is</hi> and <hi>No</hi> other.</p>
+            <p>And it is ſaid another is <hi>Not</hi> yet come, hee ſtands out a little longer then the Reſt, and it is ſaid, When hee commeth he ſhall continue a ſhort ſpace.</p>
+            <p>This great <hi>City</hi> and her Antichriſt, is ſaid to ſit on ſeven Heads, which is ſeven Mountaines, that is 7. diſtinct Dominions, <hi>verſe</hi> 9. One which hee ſhall particulerly Command and makes his Seat, and Six which he ſhall bring under Conditions.</p>
+            <p>So this is <hi>No</hi> more in effect then hath been ſaid before, only confir<g ref="char:EOLhyphen"/>med by more Teſtimonies.</p>
+            <p>And in the 11. th verſe it is ſaid, <hi>The Beaſt that was and</hi> is not, <hi>is the</hi> 8. th, and yet of the Seven, and ſhall goe into Perdition.</p>
+            <p>This Beaſt that <hi>was</hi> and <hi>Is not,</hi> is the ſame was ſpoke of before, but here is ſaid to be the 8. and is of the 7. th in the 11. <hi>verſe.</hi>
+            </p>
+            <p>It is certaine hee is of the Seven; but how he is ſaid to be the Eight J conceive it thus:—</p>
+            <p>That when he is come neare the time of his Deſtruction, and to the end of his accompt for his Antichriſtian Dominion; The right Heire ſhall appeare to come into his Kingdome, and ſhall come with the aid of the other Six (which formerly Antichriſt had brought to his Condi<g ref="char:EOLhyphen"/>tions) thoſe Six with his owne Nobility makes up 7. Heads; Then Antichriſt and his Nobility makes up the 8. Head: And in the 16. th verſe it is ſaid, <hi>Theſe ſhall hate the whore and burne her with Fire.</hi>
+            </p>
+            <pb n="14" facs="tcp:168995:12"/>
+            <p>And verſe 17. th it is ſaid, <hi>God hath put it into their hearts to fulfill his Will and agree together:</hi> And give their Kingdomes to the Beaſt untill the Word of God be fulfilled.</p>
+            <p>Then commeth thoſe Kings to act right things, when they promiſe and give Ayd to the lawfull Heire, which before they could not, du<g ref="char:EOLhyphen"/>ring the height of Antichriſt's reigne.</p>
+            <p>Now J have ſhown unto you the Deſtruction of the Man of Sin, his Prophet and their Whoriſh brood.</p>
+            <p>Now it ſhall be apparant that GOD ſhall take away Antichriſt's Dominion by <hi>Daniell,</hi> the 7. th and 19. <hi>verſe;</hi> And in the 13. and 14. <hi>verſes,</hi> He giveth it to his Son: it is ſaid, <hi>there was given unto Him Dominion, Glory, and a Kingdome,</hi> that all People and Nations ſhould ſerve Him: His Dominion is an everlaſting Dominion which ſhall not paſſe away and his Kingdome, that which ſhall not be de<g ref="char:EOLhyphen"/>ſtroyed.</p>
+            <p>Then Chriſt when the Kingdome is given to him, he giveth it to his Saints to be poſſeſſed by them<g ref="char:punc">▪</g> as it was before when Antichriſt and his Adherents began their Warres againſt them.</p>
+            <p>That you may read in the 22 <hi>verſe:</hi> The <hi>Ancient of Dayes came, Judgement was given to the Saints of the Most High:</hi> And the Time came that the Saints poſſeſſed the Kingdome.</p>
+            <p>And in the 27. <hi>verſe,</hi> and the Kingdome, and the Dominion, and the Greatneſſe of the Kingdome under the whole Heaven ſhall be gi<g ref="char:EOLhyphen"/>ven to the People of the Saints of the Moſt High whoſe Kingdom is an everlaſting Kingdome: And all Dominions ſhall ſerve and obey Him.</p>
+            <p>Then ſhall the Dayes come, ſpoken of by <hi>Zachary</hi> the Prophet 14. th and the 9. <hi>verſe: And the Lord ſhall be King over all the Earth, in that Dayſhall there be one Lord and his Name one.</hi>
+            </p>
+            <p>Now it is requiſite to ſhow unto you the Joy that the Saints ſhall have for Antichriſt's Deſtruction and for the Deſtruction of his Who<g ref="char:EOLhyphen"/>riſh brood: Seeing GOD workes ſo great an Alteration, <hi>Revelati<g ref="char:EOLhyphen"/>ons</hi> the 14. th and the firſt (there he ſaith) he ſaw a <hi>Lamb</hi> ſtanding on Mount <hi>Sion</hi> having with him 144000. Having their Father's Name written in their Foreheads</p>
+            <p>And in the 2. <hi>verſe</hi> he ſaith: He heard out of Heaven the voyce of Thunder, the Voyce of Waters, Harpes harping, and in the 3. <hi>verſe:</hi> They ſung a new Song before the Throne, the bookes of the <hi>Apoſtles</hi> and Prophets, the foure Beaſts, and Elders which were redeemed from the Earth.</p>
+            <pb n="15" facs="tcp:168995:12"/>
+            <p>And in the 6. <hi>verſe,</hi> the Meſſengers of God goeth forth with free<g ref="char:EOLhyphen"/>dome to preach the everlaſting Goſpell, to them that dwell on the Earth, to People, Tongues, and Nations.</p>
+            <p>And in the 15. the 3. <hi>verſe:</hi> That thoſe that got Victory over the Beaſt, over his Image<g ref="char:punc">▪</g> and over his Marke and the number of his Name Sing the Song of <hi>Moſes</hi> the Servant of the Lord<g ref="char:punc">▪</g> and the Song of the Lamb? <hi>Great and Marvellous are thy Workes<g ref="char:punc">▪</g> Lord GOD Almigh<g ref="char:EOLhyphen"/>ty: Iust and true are thy Workes, Thou King of Saints!</hi>
+            </p>
+            <p>And in the 4. <hi>verſe,</hi> Who ſhall not feare thee, O Lord, and glorifie thy Name, for thou only art Holy? For all Nations ſhall come and worſhip before thee; For thy Judgement is made manifeſt: And <hi>verſe</hi> the 5. th, after that Song the Temple of the Teſtimony of the Taber<g ref="char:EOLhyphen"/>nacle was open.</p>
+            <p>And in the 19. c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p. He heard a Multitude of People which ſong <hi>Ha<g ref="char:EOLhyphen"/>leluja, Salvation, Glory, and Honour, and Power unto thë Lord GOD.</hi> read <hi>Revelations</hi> the whole <hi>Chapter.</hi>
+            </p>
+            <p>I have ſhowne unto you the great joy that ſhall be upon the ſup<g ref="char:EOLhyphen"/>preſſing of Antichriſt.</p>
+            <p>I ſhall alſo ſhow unto you a little, the ſorrow of thoſe that favour Him, and ſuch as hath his Name, his Marke, or the Number of his Name.</p>
+            <p>All thoſe that have committed Fornication with Her ſhall bewaile Her, and lament for Her, and cry and caſt duſt on your Heads: the 18. cap. 9. <hi>verſe, 11. verſe, 18 verſe.</hi>
+            </p>
+            <p>Now I have ſhown in briefe the great Myſterie of Antichriſt, and his Fore-runner, his great Prophet, their Riſing and Power, what they ſhall doe and how long he ſhall continue, I have alſo ſhowne unto you their Subverſion and Overthrow.</p>
+            <p>And I have ſhown un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o you the Ioy that ſhall enſue to the Peo<g ref="char:EOLhyphen"/>ple of GOD: And the ſorrow of thoſe that adhere unto the Man of Sinne, and his Idolatrous brood.</p>
+            <p>And I have ſhowne unto you the moſt <hi>Glorious</hi> Preaching of the Goſpell that ſhall be after their Subverſion: So that one Title of Gods Word ſhall not faile of what is inſerted in the Booke of God.</p>
+            <p>That which I have written is in briefe, for if I had the Tongue of Men and Angels, and were the beſt Scribe in the World, it were impoſſible for me either to ſpeake or write, or you to heare or read the moſt unnaturall bloody and damnable acts of the Beaſt, his
+<pb n="16" facs="tcp:168995:13"/>
+Prophet and their Lives, even their very Clawes and Nailes on their feet being of Braſle: to Plunder and Scrape the very Fleſh of the bones of Gods people, <hi>Daniel</hi> the 7. th chap. and 19. verſe.</p>
+            <p>But when men ſeeth theſe things come to paſſe<g ref="char:punc">▪</g> which is Collected out of the word of GOD, let them lift up their hands which hang downe, and their feeble knees, and make ſtreight ſteps upon their feet, as <hi>Paul</hi> ſaith, <hi>Leſt that which is halting be turned out of the way.</hi>
+            </p>
+            <p>It ſhall informe weake Conſciences, and confirme them in the truth.</p>
+            <p>It ſhall be a Caviat for many to take <hi>Salomons</hi> counſell, (that is) <hi>If thou haſt ſtricken hands and been ſnared with the words of thy mouth make haſt, deliver thy ſelfe.</hi>
+            </p>
+            <p>But more eſpecially to doe as our Lord Saviour CHRIST co<g ref="char:cmbAbbrStroke">̄</g>mands (that is) <hi>Agree with thy adverſary quickly whileſt hee is in the way with thee, leaſt he deliver thee to the Iudge, and the Iudge deliver thee to the Iaylor.</hi>
+            </p>
+            <p>It ſhall be a meanes to Convert the <hi>Jewes,</hi> when they ſee Antichriſt play his Pagents on the earth, and God fulfill his judgment upon him, Being ſo perfectly Marked out by his Prophets and Apoſtles, and fore<g ref="char:EOLhyphen"/>told ſo many hundred of yeares before he come.</p>
+            <p>It ſhall alſo Reconcile the great differences amongſt the Chriſtians: But eſpecially betwixt the <hi>Papiſts</hi> and <hi>Proteſtants,</hi> which hath ſo long time contended about this thing unto Blood.</p>
+            <p>It ſhall Increaſe the torments and anguiſh of thoſe, that are ſtill ob<g ref="char:EOLhyphen"/>ſtinate Enemies of GOD and doth not Repent.</p>
+            <p>And finally, It ſhall cauſe all both great and ſmall, things in Heaven and things on Earth, and under the Earth, to bow the Knee at the Name of <hi>JES<g ref="char:V">Ʋ</g>S,</hi> even ſo AMEN.</p>
+            <lg>
+               <l>This ſad Tragedy being paſt and gone,</l>
+               <l>the Saints ſhall live at peace and eaſe at home:</l>
+            </lg>
+            <lg>
+               <l>Till <hi>Gog</hi> ſhall make them to be ſore diſmay'd,</l>
+               <l>his wicked Pagents then that he hath play'd.</l>
+            </lg>
+            <lg>
+               <l>But Conſolation great to th' Saints will come,</l>
+               <l>after he hath had his dreadfull Doome:</l>
+            </lg>
+            <lg>
+               <l>For finall Sentence ſhall not long be driven,</l>
+               <l>till th' Saints ſhall all for ever be in Heaven.</l>
+            </lg>
+            <pb n="17" facs="tcp:168995:13"/>
+            <p>J will further adde this:</p>
+            <p>That the falſe Prophet when he ſhall firſt appeare ſhall be by Pro<g ref="char:EOLhyphen"/>feſſion in his Religion, <hi>a falſe Dependant,</hi> (Puritanicall) who by his rigid Curioſitie and Scrupulous non-Conformity: Shall make way for a Toleration of Antichriſtian Independancy.</p>
+            <p>Further you may obſerve in 1639: That from their Covenanting and firſt Entrance into the Field in open force and publique Hoſtility againſt their lawfull King and Prieſts (the Lords Deputies) till the time of their Subverſion ſhall be (that is in 1660.) One and twenty yeares: Anſwerable to the time that Chriſt our Lord diſputed in the Temple with the Puritanicall, hypochriticall Phariſees, till he aſcended into Heaven as afore-mentioned.</p>
+            <p>But more for particuler Diſtinction of Time: As neare as may be (it may be obſerved) that for the firſt Ten yeares and ſix Moneths<g ref="char:punc">▪</g> which is three times 42. Moneths, the Antichriſtian falſe Prophet ſhall moſt popularly carry on his wicked deſignes, deceiving the People by Lies, pretending to be for the King and Prieſts, till they may utterly deſtroy Both: And conſequently Gods holy Worſhip and ſo out them, as Antichriſtian by Lies and Scandals.</p>
+            <p>But for the later ten yeares and ſix Moneths, the Antichriſt himſelfe by the aſſiſtance of his bloody Crew ſhall advance his Dominion.</p>
+            <p>For the firſt 42. Moneths of the later Ten yeares and an halfe, the Antichriſt ſhall be made Generall, and give a Toleration to all his Antichriſtian Impes.</p>
+            <p>And for the ſecond 42. Moneths, Antichriſt ſhall take upon him to be the peoples Saviour and Protector: And his falſe Prophet ſhall comply with him, and be protected by Him.</p>
+            <p>And for the laſt 42. Moneths, he ſhall actually be confirmed in his <hi>Jeſus-ſhip:</hi> And his falſe Prophet, with all their deluded Spirits, ſhall give Honour unto him as lawfully inſtalled in his <hi>Jeſus-ſhip</hi> for ever, both for Him and His.</p>
+            <p>Yet before the 42. Moneths be expired a great darkneſſe of Confu<g ref="char:EOLhyphen"/>ſion ſhall be in his Kingdome, that they ſhall knaw their Tongues for paine, <hi>Revelations</hi> the 16. th and 10. <hi>verſe.</hi>
+            </p>
+            <p>And alſo before the laſt 42. Moneths be out: The right Heire ſhall come to poſſeſſe his Kingdome, as is afore-mentioned.</p>
+            <p>This they ſhall ſee: All thoſe that lives in the Dayes of Antichriſt, the 42. Moneths of Antichriſt's Dominion; And his falſe Prophet
+<pb n="18" facs="tcp:168995:14"/>
+ſpoken of (by the Ange<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l) to <hi>John:</hi> And the Time, Times, and the dividing of Time ſpoken of (by the Angell) to <hi>Daniell:</hi> Really ful<g ref="char:EOLhyphen"/>filled to the Sight and perfect Knowledge of all the Obſervers thereof: If they will but count.</p>
+            <p>And if <hi>Pharoah's</hi> Dreame was doubled twiſe, much more ſhall An<g ref="char:EOLhyphen"/>tichriſt's 42. Moneths be doubled thrice, for the Ratification thereof before all the World.</p>
+            <p>But courteous Reader, looke what thou haſt here read is none of Mine, only collected by me out of holy Scripture, (therefore give God the Glory.) But it is ſo briefe, that it is far ſhort of what may be obſer<g ref="char:EOLhyphen"/>ved by the judicious Reader out of holy Writ: Though it be promiſ<g ref="char:EOLhyphen"/>cuouſly laid downe therein, as we may obſerve in all Propheſies: (that Men as naturall may ſee and not perceive, and heare and not under<g ref="char:EOLhyphen"/>ſtand; for if it were by way of Hiſtory then it were no Propheſie) as we may obſerve in the 24. th of <hi>Mathew,</hi> and ſuch like Propheticall places they be Myſteriouſly laid downe.</p>
+            <p>But I would have you to obſerve, that every Spirit that pretends to ſtand for Chriſt, and doth oppoſe his Dominion here upon Earth by his Deputies, Kings, and Epiſcopall Prieſts, doth therewith deny the true Doctrine and Diſcipline of Chriſt's Church: The ſame muſt undoubt<g ref="char:EOLhyphen"/>edly be the Antichriſt.</p>
+            <p>Antichriſtian Spirits there was from the beginning, by the Enemy of Mankind in oppoſition to the promiſed Seed Chriſt.</p>
+            <p>But they never prevailed to ſet up a Dominion as aforeſaid, to fill up the whole Latitude of his Deſcription.</p>
+            <p>Read for your Sat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sfaction the 26. of <hi>Numbers,</hi> what became of <hi>Core</hi> and his accomplice<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And read the Epiſtle of <hi>Jude</hi> his Prophe<g ref="char:EOLhyphen"/>ſie of Antichriſt, whereof <hi>Cores</hi> Rebellion againſt <hi>Moſes</hi> their King, and <hi>Aaron</hi> their Prieſt was a Type of Antichriſt's Rebellion under the Goſpell.</p>
+            <p>Read alſo the 10. th of <hi>Leviticus:</hi> The Hiſtory of <hi>Nadab</hi> and <hi>A<g ref="char:EOLhyphen"/>bihu</hi> offering ſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ange Fire to the Lord: A Type of the abominable Worſhip and Sectaries (tollerated by Antichriſt) in the time of the Goſpell.</p>
+            <p>But though theſe did not prevaile to ſet up a Dominion, yet Anti<g ref="char:EOLhyphen"/>chriſt the Typified ſhall proſper, prevaile and ſet up his Dominion as a<g ref="char:EOLhyphen"/>foreſaid: And all his evill Spirits ſhall proſper with him, all that ever were or ſhall be, and ſhall doe what is written of Him.</p>
+            <pb n="19" facs="tcp:168995:14"/>
+            <p>But the antichriſtian Spirits that ſhall aſſay to ſet up a Dominion before the Time of the Antichriſt, the Son of Perdition, cannot.</p>
+            <p>For <hi>Paul</hi> ſaith to the <hi>Theſſalonians,</hi> 2. Epiſtle and 2 <hi>Chapter,</hi> only he who letteth ſhall let till he be taken out of the Way; and in the 8. verſe, <hi>Then ſhall the Wicked be revealed.</hi>
+            </p>
+            <p>And it is to be underſtood, that He who hath let and doth let is the Angell of the Church: And the King Chriſt's Deputy, where this Man of Sinne ſhall ariſe, who is appointed by GOD to protect his Church from ſuch Malignant Spirits, according to his Promiſe made to his People, as to the Patriarchs and to <hi>Moſes</hi> to aid them: That for their and the Churches ſafety, his Angell ſhould goe before them.</p>
+            <p>The like aſſiſtance doth attend Chriſtian Kings under the Goſpell, but when Gods Angell is reſtrained from ayding the King in protect<g ref="char:EOLhyphen"/>ing of Chriſt's Church, then ſhall Antichriſt appear and prevaile, <note n="*" place="margin">The King and Biſhop.</note> and the two great Witneſſes of GOD ſhall be murthered in the Street, and lye<note place="margin">A Biſhop may be Antichriſtian, being againſt Monarchy.</note> ſlaine in that City which is ſpiritually called <hi>So<g ref="char:EOLhyphen"/>dom</hi> and <hi>Aegypt, Revel.</hi> the 11. chap. and 8, and 9.<note place="margin">A Monarch may be Antichriſtian be<g ref="char:EOLhyphen"/>ing againſt Epiſco<g ref="char:EOLunhyphen"/>pacy; But he that is the Antichriſt muſt be above and againſt both.</note> 
+               <hi>verſes.</hi>
+            </p>
+            <p>For be aſſured Chriſtian Reader, he ſhall be a<g ref="char:EOLhyphen"/>gainſt Chriſt when he commeth, and againſt Chriſt's annointed Ones: Such as are commiſſionated, conſecrated, and ſet apart for his moſt eſpeciall Service under the Goſpell.</p>
+            <p>And will preſume to be above Chriſt<g ref="char:punc">▪</g> as he is a Saviour admini<g ref="char:EOLhyphen"/>ſtring his Power here upon Earth (till his ſecond Comming) by his lawfull JESVSES, his Deputies here: And ſo he will ſet himſelfe in Chriſt's Dominion or above Him.</p>
+            <p>Abſolutely to take away the Regall and Sacerdotall Officers of CHRIST: And to ſuppreſſe the true Profeſſors.</p>
+            <p>Till the Antient of Dayes ſit, and Judgment be given to the Saints of the Moſt High as aforeſaid.</p>
+            <p>All which for the Glory of our God, and of his Son our Lord and Saviour, (in the right underſtanding hereof for our availes) I referre un<g ref="char:EOLhyphen"/>to God: And for the Performance of his moſt Sacred Word, wee ought not to doubt.</p>
+            <p>Therefore as I ſaid before, let us all both great and ſmall, bow the Knee at the Name of <hi>JES<g ref="char:V">Ʋ</g>S:</hi> Even ſo AMEN.</p>
+            <pb n="20" facs="tcp:168995:15"/>
+            <p>Now I doubt not, but I ſhall have the favorable Conſtruction of all the Sons of the Church of <hi>England</hi> herein.</p>
+            <p>But for ſuch as hath not knowne it through want of yeares, and thoſe that through weakneſſe have been ſeduced from it: My Deſire is that they ſhould returne, and profeſſe the Catholick Faith eſtabliſhed in <hi>England,</hi> and profeſſed in the Dayes of <hi>Charles</hi> the firſt, the Great Martyr of <hi>JESVS.</hi>
+            </p>
+            <p>This ſhall be the Prayers of him, that wiſheth Grace and Peace till the finiſhing of his Dayes.</p>
+            <closer>
+               <signed>Your Servant, ABRAHAM NELSON, of <hi>Garſdale</hi> in Yorkſhire.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
